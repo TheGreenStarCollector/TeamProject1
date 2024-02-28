@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638446949260000000
-    m_Hash: 221202281
+      ticks: 638446951470000000
+    m_Hash: 902107698
   m_LockFileStatus:
     m_FilePath: /Users/stefanos04/CGE-303/TeamProject1/TeamProject1/MedRun/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638446949280000000
-    m_Hash: 405207727
+      ticks: 638446951560000000
+    m_Hash: 1417454959
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -730,12 +730,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.collab-proxy@2.0.4
+    - packageId: com.unity.collab-proxy@2.1.0
       testable: 0
       isDirectDependency: 1
-      version: 2.0.4
+      version: 2.1.0
       source: 1
-      resolvedPath: /Users/stefanos04/CGE-303/TeamProject1/TeamProject1/MedRun/Library/PackageCache/com.unity.collab-proxy@2.0.4
+      resolvedPath: /Users/stefanos04/CGE-303/TeamProject1/TeamProject1/MedRun/Library/PackageCache/com.unity.collab-proxy@2.1.0
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -744,7 +744,7 @@ m_PackageAssets:
         email: 
         url: 
       category: Editor
-      type: asset
+      type: assets
       description: The package gives you the ability to use Unity Version Control
         in the Unity editor. To use Unity Version Control, a subscription is required.
         Learn more about how you can get started for free by visiting plasticscm.com.
@@ -862,13 +862,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 638176024310000000
-      documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.0/manual/index.html
+      datePublishedTicks: 638301329890000000
+      documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.1/manual/index.html
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-        revision: dc15ef2ed609e8c19d0525a46c5bf7dd78df8432
+        revision: 179e96acc2f95fcb9dcc91b5fb2ee5f3e85d48aa
         path: 
     - packageId: com.unity.ide.rider@3.0.21
       testable: 0
